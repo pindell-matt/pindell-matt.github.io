@@ -2,3 +2,7 @@
   padding-right: 11px;
   color: inherit;
 }
+
+a:visited {
+  color: inherit;
+}
