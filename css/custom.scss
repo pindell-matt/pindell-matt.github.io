@@ -1,0 +1,31 @@
+@import url("http://overpass-30e2.kxcdn.com/overpass.css");
+
+h1 {
+  font-family: 'Overpass', arial;
+  font-style: italic;
+  font-weight: 700;
+}
+
+h4 {
+  font-family: 'Overpass', arial;
+  font-weight: 600;
+}
+
+body {
+  background:url(
+    data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAGklEQVQImWNgYGD4//8MAjMgc1AEYCoxVAAAUNMpCwzagpoAAAAASUVORK5CYII=
+  ) repeat;
+}
+
+.icon-links a {
+  padding-right: 11px;
+  color: inherit;
+}
+
+a:visited {
+  color: inherit;
+}
+
+.primary {
+  margin-top: 5%;
+}
