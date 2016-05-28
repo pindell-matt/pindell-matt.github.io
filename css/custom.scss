@@ -14,13 +14,17 @@ body {
   ) repeat;
 }
 
+a {
+  color: black;
+}
+
 .icon-links a {
   padding-right: 11px;
-  color: inherit;
+  color: black;
 }
 
 a:visited {
-  color: inherit;
+  color: black;
 }
 
 .primary {
