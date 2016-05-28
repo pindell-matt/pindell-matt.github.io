@@ -1,10 +1,8 @@
-h1 {
-  font-family: 'Cabin', arial;
+* {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-  font-family: 'Cabin', arial;
-  font-weight: 600;
   margin-top: 0px;
 }
 
@@ -14,19 +12,21 @@ body {
   ) repeat;
 }
 
+.primary {
+  color: black;
+  margin: 80px auto 0;
+  width: 80%;
+}
+
 a {
   color: black;
 }
 
 .icon-links a {
-  padding-right: 11px;
+  padding-right: 10px;
   color: black;
 }
 
 a:visited {
   color: black;
-}
-
-.primary {
-  margin-top: 5%;
 }
